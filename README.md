@@ -1,2 +1,2 @@
-# AboutMe
-Android App Practice
+# About Me
+Android App for practice
