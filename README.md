@@ -1,3 +1,3 @@
 # About Me
 Android App for practice
-Link : [Android Development](https://www.udacity.com)
+Link of the course : [Android Development](https://www.udacity.com)
